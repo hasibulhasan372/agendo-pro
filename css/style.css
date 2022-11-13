@@ -44,7 +44,7 @@ p {
 /* All Common CSS End   */
 /* Backgroung Start  */
 #bg {
-    background: url(../Images/BG_1.jpg);
+    background: url(../images/BG_1.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
